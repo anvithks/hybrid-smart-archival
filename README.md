@@ -1,10 +1,10 @@
-# hybrid-smart-archival
+# Hybrid Smart Archival
 Hybrid Smart Archival of Data across on prem, cloud and edge
 
 
-Why Smart Data Archival?
+## Why Smart Data Archival?
 
-Background: 
+### Background: 
 
 * Data migration/archival is an important feature in the data management area, where multiple on prem, cloud or edge storages are there.
 This feature is already supported by a SODAFOUNDATION project called [multi-cloud](https://github.com/sodafoundation/multi-cloud). 
